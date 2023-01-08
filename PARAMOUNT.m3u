@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Paramount HD",Paramount HD
+http://167.250.222.35:16000/play/a07w/index.m3u8
+#EXTINF:-1,Paramount HD
+http://131.196.194.2:8000/play/a0hl/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.228.234.185:8000/playlist/tvg-logo/a0kl.png",Paramount HD
+http://45.228.234.185:8000/play/a0kl/index.m3u8
+#EXTINF:-1,388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
+#EXTINF:-1,Paramount
+http://45.174.84.154:8000/play/a00m/index.m3u8
+#EXTINF:-1,Paramount
+http://200.52.154.125:8000/play/a04k/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://200.24.159.165:9966/play/a031/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://206.62.165.54:8000/play/a0oz
+#EXTINF:-1,Paramount HD
+http://170.239.188.253:50000/play/a018/index.m3u8
+#EXTINF:-1,Paramount HD
+http://45.174.84.154:8000/play/a01z/index.m3u8
+#EXTINF:-1,Paramount HD
+http://177.234.254.38:8000/play/a01l/index.m3u8
+#EXTINF:-1,Paramount HD
+http://190.115.15.177:58003/play/a00b/index.m3u8
+#EXTINF:-1,Paramount HD
+http://200.52.154.125:8000/play/a03k/index.m3u8
+#EXTINF:-1,Paramount HD
+http://8.242.187.233:5800/play/a08o/index.m3u8
+#EXTINF:-1,Paramount HD
+http://45.190.185.210:8080/play/a08r
+#EXTINF:-1,Paramount HD
+http://190.27.172.231:25000/play/a0b7
+#EXTINF:-1,Paramount HD
+http://206.62.165.54:8000/play/a0il
+#EXTINF:-1,Paramount HD
+http://45.228.233.66:16000/play/a07w/index.m3u8
+#EXTINF:-1,Paramount HD
+http://45.232.211.195:1080/play/a05m
